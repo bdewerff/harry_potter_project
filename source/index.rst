@@ -1,8 +1,4 @@
-Welcome to Harry Potter Project's documentation!
-================================================
+This is my Sample Chapter
+=========================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   sample_chapter/index
+Here is my sample chapter
