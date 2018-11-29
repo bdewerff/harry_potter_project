@@ -15,4 +15,9 @@ Here is my sample chapter
    chamber_of_secrets/chamber
    prisoner_of_azkaban/azkaban
    goblet_of_fire/goblet
+   theme_park/harrypotterworld
+   broadway/harrypottertheplay
+   butterbeer/butterbeer
+   spells/harrypotterspells
+   
 
