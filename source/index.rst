@@ -13,3 +13,8 @@ Welcome to Harry Potter Project's documentation!
    chamber_of_secrets/chamber
    prisoner_of_azkaban/azkaban
    goblet_of_fire/goblet
+   theme_park/harrypotterworld
+   broadway/harrypottertheplay
+   butterbeer/butterbeer
+   spells/harrypotterspells
+   
