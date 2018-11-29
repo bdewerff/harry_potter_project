@@ -14,4 +14,4 @@ There are three different locations within Harry Potter World where park-goers c
 +========================================================================+
 | Pilliwinkle's | Tarantellegra     | Red window curtains open and trolls|
 | Playthings    |                   | dance across a stage               |
-+========================================================================+
++------------------------------------------------------------------------+
