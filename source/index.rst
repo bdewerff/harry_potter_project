@@ -1,6 +1,8 @@
-Welcome to Harry Potter Project's documentation!
-================================================
+This is my Sample Chapter
+=========================
 
+Here is my sample chapter
+=======
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -20,4 +22,3 @@ Welcome to Harry Potter Project's documentation!
    order_of_the_phoenix/order_phoenix
    deathly_hallows/deathly_hallows
    half_blood_prince/half_blood
-   
