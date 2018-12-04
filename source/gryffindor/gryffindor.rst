@@ -1,16 +1,16 @@
 Gryffindor
-============
+==========
 
 .. image:: gryffindor.png
 
 Overview
----------
+--------
 
 The Hogwarts School of Witchcraft and Wizardry's house of **Gryffindor** is the home 
 to Harry Potter himself along with some of his best friends, Ron Weasley and 
 Hermione Granger. Gryffindor was founded by Godric Gryffindor long ago. Only those
- who value courage, chivalry and determination would be chosen by the Sorting Hat
-to join the house. The crest symbol of Gryffindor is a lion and the colors are 
+who value courage, chivalry and determination would be chosen by the Sorting Hat
+to join the house. The crest symbol of Gryffindor is a lion and the colors are
 scarlet and gold. Minerva McGonagall is the head of the house, and Nearly Headless
 Nick is the house ghost.
 
@@ -23,8 +23,8 @@ the coat.
 * Bravery
 * Nerve
 * Courage
-*Chivalry
-*Determination
+* Chivalry
+* Determination
 
 *You might belong in Gryffindor,
 where dwell the brave at heart,
@@ -41,16 +41,16 @@ and Ravenclaws.
 Dumbledore's Army
 ------------------
 
-============    =================
-Name            House
-============    =================
-Harry Potter    Gryffindor
-Luna Lovegood   Ravenclaw
-Hannah Abbott   Hufflepuff
-Colin Creevey   Gryffindor
-Zacharias Smith Hufflepuff
-Michael Corner  Ravenclaw
-============    =================
+================   =================
+Name               House
+================   =================
+Harry Potter       Gryffindor
+Luna Lovegood      Ravenclaw
+Hannah Abbott      Hufflepuff
+Colin Creevey      Gryffindor
+Zacharias Smith    Hufflepuff
+Michael Corner     Ravenclaw
+================   =================
 
 Fun Facts
 ----------
