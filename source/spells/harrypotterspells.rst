@@ -28,12 +28,12 @@ There are three different locations within Harry Potter World where park-goers c
 | Wizarding      | Revelio              | map, fires an arrow, and his dog   |
 | Equipment      |                      | retrieves it                       |
 +----------------+----------------------+------------------------------------+
-|Scribbulus      | Wingardium           | Levitates a quill above parchment, |
+| Scribbulus     | Wingardium           | Levitates a quill above parchment, |
 |                | Leviosa              | then returns to resting place      |
 +----------------+----------------------+------------------------------------+
 | Brown E.       | Reparo			    | Repairs a broken suit of armor     |
 | Wright         |                      |                                    |
-|Blacksmith      |                      |                                    |
+| Blacksmith     |                      |                                    |
 +----------------+----------------------+------------------------------------+
 | Mermaid        | Aguamenti		    | Produces water from water fountain |
 | Fountain       |                      | in front of the statue             |
@@ -89,8 +89,8 @@ There are three different locations within Harry Potter World where park-goers c
 | Dervish and   | Locomotor- Arresto    | Starts and stops the music box     |
 | Banges        | Momentum              | in the window                      |
 +---------------+-----------------------+------------------------------------+
-|Tome and       | Alohomora             | Unlocks a copy of Tales of Beedle  |
-|Scrolls        |                       | the Bard                           |
+| Tome and      | Alohomora             | Unlocks a copy of Tales of Beedle  |
+| Scrolls       |                       | the Bard                           |
 +---------------+-----------------------+------------------------------------+
-|Spintwitches   | Wingardium Leviosa    | Raises the quidditch balls         |
+| Spintwitches  | Wingardium Leviosa    | Raises the quidditch balls         |
 +---------------+-----------------------+------------------------------------+
