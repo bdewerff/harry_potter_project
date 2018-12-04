@@ -17,4 +17,7 @@ Welcome to Harry Potter Project's documentation!
    broadway/harrypottertheplay
    butterbeer/butterbeer
    spells/harrypotterspells
+   order_of_the_phoenix/order_phoenix
+   deathly_hallows/deathly_hallows
+   half_blood_prince/half_blood
    
