@@ -24,3 +24,4 @@ Harry Potter Project Index
    order_of_the_phoenix/order_phoenix
    deathly_hallows/deathly_hallows
    half_blood_prince/half_blood
+   conspiracies/conspiracies
