@@ -1,12 +1,14 @@
-This is my Sample Chapter
-=========================
+Harry Potter Project Index
+==========================
 
-Here is my sample chapter
-=======
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   sorcerer_stone/sorcerer
+   chamber_of_secrets/chamber
+   prisoner_of_azkaban/azkaban
+   goblet_of_fire/goblet
    gryffindor/gryffindor
    ravenclaw/ravenclaw
    hufflepuff/hufflepuff
@@ -16,7 +18,7 @@ Here is my sample chapter
    prisoner_of_azkaban/azkaban
    goblet_of_fire/goblet
    theme_park/harrypotterworld
-   broadway/harrypottertheplay
+   broadway/harrypotterplay
    butterbeer/butterbeer
    spells/harrypotterspells
    order_of_the_phoenix/order_phoenix
