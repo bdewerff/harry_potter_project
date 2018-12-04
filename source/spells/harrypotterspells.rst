@@ -21,7 +21,7 @@ There are three different locations within Harry Potter World where park-goers c
 | Umbrella       | Metelojinx           | Umbrella "rains" water on street   |
 | Sign           |                      | below                              |
 +----------------+----------------------+------------------------------------+
-| Magical        | Silencio		        | Noisy bird in shop window is       |
+| Magical        | Silencio             | Noisy bird in shop window is       |
 | Nebagerie      |                      | silenced                           |
 +----------------+----------------------+------------------------------------+
 | Wiseacres      | Specialis            | Animated archer appears on star    |
@@ -31,11 +31,11 @@ There are three different locations within Harry Potter World where park-goers c
 | Scribbulus     | Wingardium           | Levitates a quill above parchment, |
 |                | Leviosa              | then returns to resting place      |
 +----------------+----------------------+------------------------------------+
-| Brown E.       | Reparo			    | Repairs a broken suit of armor     |
+| Brown E.       | Reparo               | Repairs a broken suit of armor     |
 | Wright         |                      |                                    |
 | Blacksmith     |                      |                                    |
 +----------------+----------------------+------------------------------------+
-| Mermaid        | Aguamenti		    | Produces water from water fountain |
+| Mermaid        | Aguamenti            | Produces water from water fountain |
 | Fountain       |                      | in front of the statue             |
 +----------------+----------------------+------------------------------------+
 | Weasley's      | Descendio            | Makes the "You No Poo" sign in     |
