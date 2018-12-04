@@ -5,4 +5,7 @@ Welcome to Harry Potter Project's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   sample_chapter/index
+   sorcerer_stone/sorcerer
+   chamber_of_secrets/chamber
+   prisoner_of_azkaban/azkaban
+   goblet_of_fire/goblet
