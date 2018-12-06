@@ -1,6 +1,8 @@
 Harry Potter Spells
 ===================
 
+.. image:: wand.png
+
 Do you want to be a wizard too?
 -------------------------------
 

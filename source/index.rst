@@ -5,10 +5,6 @@ Harry Potter Project Index
    :maxdepth: 2
    :caption: Contents:
 
-   sorcerer_stone/sorcerer
-   chamber_of_secrets/chamber
-   prisoner_of_azkaban/azkaban
-   goblet_of_fire/goblet
    gryffindor/gryffindor
    ravenclaw/ravenclaw
    hufflepuff/hufflepuff
@@ -17,11 +13,11 @@ Harry Potter Project Index
    chamber_of_secrets/chamber
    prisoner_of_azkaban/azkaban
    goblet_of_fire/goblet
+   order_of_the_phoenix/order_phoenix
+   half_blood_prince/half_blood
+   deathly_hallows/deathly_hallows
+   conspiracies/conspiracies
    theme_park/harrypotterworld
    broadway/harrypotterplay
    butterbeer/butterbeer
    spells/harrypotterspells
-   order_of_the_phoenix/order_phoenix
-   deathly_hallows/deathly_hallows
-   half_blood_prince/half_blood
-   conspiracies/conspiracies

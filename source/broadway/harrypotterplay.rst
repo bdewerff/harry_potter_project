@@ -9,3 +9,37 @@ The Harry Potter franchise does not stop with books, movies, and a theme park. O
 Cast
 ----
 
+* Brian Thomas- Abraham
+* Anthony Boyle- Scorpius
+* Sam Clemmett- Alubs
+* Noma Dumezweni- Hermione
+* Susan Heyward- Rose
+* Poppy Miller- Ginny
+* Jamie Parker- Harry
+* Alex Price- Draco
+* Paul Thornley- Ron
+
+Awards
+------
+
+**6 TONY AWARDS** including BEST PLAY
+**6 Outer Critics Circle Awards**
+**5 Drama Desk Awards**
+**Drama League Award**
+**2 Theatre World Awards**
+**Broadway.com Audience Choice Award**
+**4 Broadway World Theater Fans' Choice Awards**
+
+Show Details
+------------
+
+Lyric Theater- 214 W 43rd St, New York, NY 10036
+
+Box Office Hours: Open Daily 10:00 AM- 8:00 PM
+
+Nearest parking can be found at 1411 Broadway
+
+**Please arrive one hour before the start time. Latecomers will not 
+be admitted until intermission!**
+
+
