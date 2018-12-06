@@ -13,7 +13,8 @@ Ravenclaw house is Filius Flitwick and the house ghost is the Grey Lady, also
 known as Helena Ravenclaw. Ravenclaw's element is air. This relates to the house
 colors as blue represents the sky and bronze represents eagle feathers.
 
-* Traits of a Ravenclaw
+**Traits of a Ravenclaw**
+
 * Wit
 * Learning
 * Wisdom

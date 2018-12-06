@@ -20,14 +20,16 @@ associated with the sea in mythology and serpents are fluid animals. Water is
 also seen as a portal to another world in mythology. This relates to Slytherin's 
 wish for a world of pure-bloods only.
 
-* Traits of a Slytherin
+**Traits of a Slytherin**
+
 * Resourceful
 * Cunning
 * Ambitious
 * Determined
 * Self-preserving
 * Fraternity
-*Cleverness
+* Cleverness
+
 
 *Or perhaps in Slytherin,
 you'll make your real friends,
