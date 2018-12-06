@@ -11,7 +11,8 @@ young witches and wizards who value hard work, patience, loyalty and fairness.
 Hufflepuff is recognized for great wizards such as Newt Scamander, the author of
 **Fantastic Beasts and Where to Find Them.**
 
-* Traits of a Hufflepuff
+**Traits of a Hufflepuff**
+
 * Hard work
 * Patience
 * Loyalty
