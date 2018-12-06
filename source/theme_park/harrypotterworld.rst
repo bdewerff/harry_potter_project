@@ -8,7 +8,7 @@ Also known as Harry Potter World, the park is located at Universal Studios in Or
 Hogwarts Express
 ----------------
 
-The Hogwarts Express is the only way to get from King's Cross Station in London at Universal Studios to Hogsmeade Station in Universal's Islands of Adventure. Along the way, passengers are unable to see what is actually outside the train, but rather, what passengers on the Hogwarts Express would actually be seeing. Passengers will get a once-in-a-lifetime experiences by getting to walk through Platform 9 3/4.
+The Hogwarts Express is the only way to get from King's Cross Station in London at Universal Studios to Hogsmeade Station in Universal's Islands of Adventure. Along the way, passengers are unable to see what is actually outside the train, but rather, what passengers on the Hogwarts Express would actually be seeing. Passengers will get a once-in-a-lifetime experience by getting to walk through Platform 9 3/4.
 
 Harry Potter and the Forbidden Journey
 --------------------------------------
@@ -23,7 +23,7 @@ This second Harry Potter themed rides takes guests on a winding path through the
 Additional Harry Potter Attractions
 -----------------------------------
 * Ollivanders - wand shopping
-* Casting Spells -
+* Casting Spells - :ref:`spells`
 * Money Exchange - exchange your money for Gringotts Bank Notes
 * Knight Bus - meet the Knight Bus conductor
-* Butterbeer - 
+* Butterbeer - :ref:`butterbeer`

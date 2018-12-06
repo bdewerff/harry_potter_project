@@ -1,3 +1,5 @@
+.. _butterbeer:
+
 Butterbeer
 ==========
 
@@ -13,7 +15,7 @@ Butterbeer Recipe
 
 *In order to begin making butterbeer you will first need to gather*:
 
-* 2 liter bottle of creame soda, chilled
+* 2 liter bottle of cream soda, chilled
 * 1/4 tsp caramel extract
 * 1/4 tsp butter extract
 
@@ -21,7 +23,7 @@ Butterbeer Recipe
 
 * 1 Cup heavy whipping cream
 * 1/2 Cup butterscotch topping
-* 1/4 Cup powedered sugar
+* 1/4 Cup powdered sugar
 
 INSTRUCTIONS
 

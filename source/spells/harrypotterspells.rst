@@ -1,3 +1,5 @@
+.. _spells:
+
 Harry Potter Spells
 ===================
 
