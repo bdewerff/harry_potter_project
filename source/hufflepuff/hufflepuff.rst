@@ -11,7 +11,8 @@ young witches and wizards who value hard work, patience, loyalty and fairness.
 Hufflepuff is recognized for great wizards such as Newt Scamander, the author of
 **Fantastic Beasts and Where to Find Them.**
 
-* Traits of a Hufflepuff
+**Traits of a Hufflepuff**
+
 * Hard work
 * Patience
 * Loyalty
@@ -36,7 +37,7 @@ herbology, which corresponds to the earth symbolizing their house element.
 Fun Facts
 ----------
 
-Hufflepuffs are not as compeitive as the other houses, and they are modest. 
+Hufflepuffs are not as competitive as the other houses, and they are modest. 
 Hufflepuffs are known to have a strong moral compass and sense of right and wrong.
 
 Students in Hufflepuff are accepting and treat everyone as their equal. The only

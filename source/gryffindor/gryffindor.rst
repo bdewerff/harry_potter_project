@@ -19,7 +19,8 @@ scarlet and gold to represent the house. Fire also relates back to the lion symb
 with the scarlet color representing the mane and tail and the gold representing
 the coat.
 
-* Traits of a Gryffindor
+**Traits of a Gryffindor**
+
 * Bravery
 * Nerve
 * Courage

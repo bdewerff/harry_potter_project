@@ -45,6 +45,4 @@ however a mysterious patronus charm. Next, Harry wakes up in the hospital wing w
 Dumbledore wanting him and Hermione to go back in time to save Buckbeak. They do this,
 then Harry goes to when the dementors came and discovers he is the one who saved himself
 with the patronus charm. Hermione and Harry break Sirius Black out of prison and send 
-him away with Buckbeak and Sirius gives Harry a permission slip to go to Hogsmeade.
-    
-    
+him away with Buckbeak and Sirius gives Harry a permission slip to go to Hogsmeade.  

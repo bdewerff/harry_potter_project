@@ -13,7 +13,8 @@ Ravenclaw house is Filius Flitwick and the house ghost is the Grey Lady, also
 known as Helena Ravenclaw. Ravenclaw's element is air. This relates to the house
 colors as blue represents the sky and bronze represents eagle feathers.
 
-* Traits of a Ravenclaw
+**Traits of a Ravenclaw**
+
 * Wit
 * Learning
 * Wisdom
@@ -29,7 +30,7 @@ Fun Facts
 
 Many Ravenclaws tend to be academically gifted students, hard-workers and diligent.
 They are also known to be curious, logical, rational and attentive to the world
-around them. This may sound like Hermoine Granger, a talented and academic-focused
+around them. This may sound like Hermione Granger, a talented and academic-focused
 witch, but she was destined for Gryffindor, although the sorting hat did consider
 Ravenclaw as an option for her. 
 
