@@ -12,7 +12,7 @@ throughout all the books. Dumbledore gets Harry from his aunt's and takes him
 to Professor Slughorn's house. dumbledore explains to Slughorn that he needs him 
 to come back to Hogwarts and teach. He brought Harry as bait. 
 While reunited with Hermione and Ron, Harry runs into Drako and the pack follow 
-him to *Borgin and Burkes* where he sees Drako with a pack of death eaters and 
+him to *Borgin and Burkes* where he sees DRako with a pack of death eaters and 
 Drako yelling at the owner insisting he fix a broken object. They return to school 
 and they all take a potions class taught by Proffesor Slughorn. Harry's potions book, 
 has writing everywhere in it. Harry discovers the name *Half-blood prince* in the 
