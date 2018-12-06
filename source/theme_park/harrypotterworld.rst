@@ -13,16 +13,16 @@ The Hogwarts Express is the only way to get from King's Cross Station in London 
 Harry Potter and the Forbidden Journey
 --------------------------------------
 
-The first of two Harry Potter themed rides is located inside Hogwarts Castle. This ride is a motion simulator where passengers can fly with Harry Potter and his friends. Passengers get a life-like experience as to what it would be like to fly around Hogwarts. While in line for the ride, guests are lead through the Castle all while getting appearances from Harry Potter characters and iconic pieces such as the Sorting Hat. 
+The first of two Harry Potter themed rides is located inside Hogwarts Castle. This ride is a motion simulator where passengers can fly with Harry Potter and his friends. Passengers get a life-like experience as to what it would be like to fly around Hogwarts. While in line for the ride, guests are led through the Castle all while getting appearances from Harry Potter characters and iconic pieces such as the Sorting Hat. 
 
 Gringotts Bank
 --------------
 
-This second Harry Potter themed rides takes guests on a winding path through the bank before boarding the ride. Gringotts Bank is also a motion simulator ride, however this ride takes you underground to navigate the banks perilous vaults and stringent security all while encountering Harry, Ron, and Hermione along the way!
+This second Harry Potter themed ride takes guests on a winding path through the bank before boarding the ride. Gringotts Bank is also a motion simulator ride, however this ride takes you underground to navigate the banks perilous vaults and stringent security all while encountering Harry, Ron, and Hermione along the way!
 
 Additional Harry Potter Attractions
 -----------------------------------
-* Ollivanders - wand shopping
+* Ollivander's - wand shopping
 * Casting Spells - :ref:`spells`
 * Money Exchange - exchange your money for Gringotts Bank Notes
 * Knight Bus - meet the Knight Bus conductor

@@ -32,7 +32,7 @@ stiff peaks.
 2. Add butterscotch topping and powdered sugar.
 3. Mix the caramel and butter extracts with the cream soda and
 then pour the mixture into a cup.
-4. Top with butterscotch cream topping and Viola! Butterbeer!!
+4. Top with butterscotch cream topping and Viola! Butterbeer!
 
 Butterbeer at Starbucks
 -----------------------
