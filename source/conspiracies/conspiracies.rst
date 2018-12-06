@@ -12,3 +12,10 @@ Dumbledore is Death
 
 *The Tale of the Three Brothers* is important in the final book and in the whole series really. The tale begins with three brothers. The three brothers show remarkable items placed in the wizarding world by death. The eldest brother is given the elder wand (power). The middle brother is given a resurrection stone to bring back the dead. While the youngest brother asks for an item in which death will not be able to follow him (invisibility cloak). If one obtained all three of these they would become the master of death. In the first book, Dumbledore gave Harry the invisibility cloak. Dumbledore had the elder wand since he won it from Grindlewald. In the final book Dumbledore hides the ressurection stone in the snitch that he gives Harry in his will. When HArry dies, he greets Dumbledore (death) as an old friend instead of a painful sad thing. Therefore, Dumbledore is death.
 
+.. image: : deathly_hallows.png
+
+=======================================  =====================================
+People in the Group Favoring God Theory  People in Group Favoring Death Theory
+=======================================  =====================================
+2 people                                 2 people
+=======================================  =====================================
