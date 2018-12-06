@@ -41,12 +41,12 @@ Fun Facts
 ----------
 
 Salazar Slytherin left Hogwarts after his controversial view that muggle-born
-wizards are less than wizard-born or pure-blood wizards. Salazar left behind
-**The Chamber of Secrets** for the purpose of it being opened one day and purging 
-Hogwarts of those muggle-borns who he saw unfit to study magic.
+wizards are less than wizard-born or pure-blood wizards was revealed. Salazar 
+left behind **The Chamber of Secrets** for the purpose of it being opened one 
+day and purging Hogwarts of those muggle-borns who he saw unfit to study magic.
 
-Harry Potter himself was almost placed in Slytherin, but because he asked, was
-placed in Gryffindor instead. 
+Harry Potter himself was almost placed in Slytherin, but because he asked, he
+was placed in Gryffindor instead. 
 
 Some notable Slytherins include Bellatrix Lestrange, Dolores Umbridge, Severus 
 Snape, Tom Morvolo Riddle, Draco Malfoy and Merlin.

@@ -17,7 +17,7 @@ Hufflepuff is recognized for great wizards such as Newt Scamander, the author of
 * Patience
 * Loyalty
 * Fairness
-* Accepting
+* Acceptance
 
 *You might belong in Hufflepuff,
 where they are just as loyal,
@@ -30,19 +30,20 @@ inclusive to all. The crest symbol is a Badger and the house colors are yellow
 and black. The head of house for Hufflepuff is Pomona Sprout and the house ghost
 is the Fat Friar.
 
-Hufflepuff's element is earth. The yellow represents wheat and the black represents
+Hufflepuff's element is earth. The yellow represents wheat and black represents
 soil. Hufflepuff students typically have talents and abilities in the field of 
-herbology, which corresponds to the earth symbolizing their house element.
+herbology, which corresponds to the earth, symbolizing their house element.
 
 Fun Facts
 ----------
 
 Hufflepuffs are not as competitive as the other houses, and they are modest. 
-Hufflepuffs are known to have a strong moral compass and sense of right and wrong.
+Hufflepuffs are known to have a strong moral compass and a strong sense
+of right and wrong.
 
 Students in Hufflepuff are accepting and treat everyone as their equal. The only
-rivalry was with Gryffindor when Gryffindor Harry Potter was pit against Hufflepuff
-Cedric Diggory in the Triwizard Tournament.
+rivalry was with Gryffindor when Gryffindor student Harry Potter was pit against 
+Hufflepuff student Cedric Diggory in the Triwizard Tournament.
 
 Hufflepuff is the house which has produced the fewest dark wizards throughout time.
 The students who are placed into Hufflepuff have cheerful, friendly personalities

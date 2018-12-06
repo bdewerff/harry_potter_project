@@ -17,7 +17,7 @@ Nick is the house ghost.
 Gryffindor's element is fire which was the inspiration for making the colors 
 scarlet and gold to represent the house. Fire also relates back to the lion symbol
 with the scarlet color representing the mane and tail and the gold representing
-the coat.
+the coat of the lion.
 
 **Traits of a Gryffindor**
 
