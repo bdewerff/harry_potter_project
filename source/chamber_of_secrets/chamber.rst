@@ -5,7 +5,7 @@ Brief Overview
 --------------
 
 The second installment of the Harry Potter series begins with Harry living a
-miserable summee with the Dursleys. Dobby, a house-elf comes to warn
+miserable summer with the Dursleys. Dobby, a house-elf comes to warn
 Harry to not come back to Hogwarts, but Harry ignores it. Later, Ron comes
 to steal Harry away from the Dursleys so he can live with the Weasleys
 for the summer. 

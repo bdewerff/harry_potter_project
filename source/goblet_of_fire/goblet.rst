@@ -11,7 +11,8 @@ followers cause chaos and the Dark Mark is cast, which hasn't been seen in 13 ye
 Winky, Barty Crouch's house elf, is a suspect to have casted it because he was found
 with the wand that casted it. 
 
-Hogwarts is selected to host the Triwizard Tournament,
+Hogwarts is selected to host the 
+`Triwizard Tournament <https://www.hp-lexicon.org/thing/triwizard-tournament/>`_,
 which can only be entered in by students older than 17. It is the first time the
 tournament is being held in 200 years. The goblet picks Fleur Delacour, Viktor
 Krum, and Cedric Diggory representing  Beauxbatons, Durmstrang, and Hogwarts respectively.
@@ -36,4 +37,13 @@ Cedric's body. Mad-Eye Moody admits he helped Harry enter and win the tournament
 is revealed as Barty Crouch and is trying to kill Harry. He was the Voldemort's servant 
 and was the one that cast the Dark Mark. Many people don't believe that Voldemort is back. 
 In the end Harry wins the Triwizard Tournament and gives his winnings to Fred and George.
-    
+The final results for the tournament were as follows:
+
+============== ==========
+Name           Position
+============== ==========  
+Harry Potter   1st
+Cedric Diggory 2nd
+Viktor Krum    3rd
+Fleur Delacour 4th
+============== ==========
