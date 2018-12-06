@@ -38,10 +38,10 @@ Dumbledore is Death
 -------------------
 
 *The Tale of the Three Brothers* is important in the final book
- and in the whole series really. The tale begins with three brothers. 
- The three brothers show remarkable items placed in the wizarding world by death. 
- The eldest brother is given the elder wand (power). The middle brother is given 
- a resurrection stone to bring back the dead. While the youngest brother asks
+and in the whole series really. The tale begins with three brothers. 
+The three brothers show remarkable items placed in the wizarding world by death. 
+The eldest brother is given the elder wand (power). The middle brother is given 
+a resurrection stone to bring back the dead. While the youngest brother asks
 for an item in which death will not be able to follow him (invisibility cloak). 
 If one obtained all three of these they would become the master of death. 
 In the first book, Dumbledore gave Harry the invisibility cloak. Dumbledore 
