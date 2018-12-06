@@ -1,7 +1,7 @@
 Sorcerer's Stone
 ================
      
-Brief Summary
+Brief Overview
 -------------
           
 In the first installment of the Harry Potter series, the story begins with 
