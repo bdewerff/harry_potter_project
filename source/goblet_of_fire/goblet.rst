@@ -1,6 +1,9 @@
 Goblet of Fire
 ==============
 
+.. image:: cup.png
+    :width: 15%
+
 Brief Overview
 ---------------
 
@@ -14,9 +17,13 @@ with the wand that casted it.
 Hogwarts is selected to host the 
 `Triwizard Tournament <https://www.hp-lexicon.org/thing/triwizard-tournament/>`_,
 which can only be entered in by students older than 17. It is the first time the
-tournament is being held in 200 years. The goblet picks Fleur Delacour, Viktor
-Krum, and Cedric Diggory representing  Beauxbatons, Durmstrang, and Hogwarts respectively.
-Harry Potter's name also is also picked, which sparks controversy since he is underage.
+tournament is being held in 200 years. The goblet picked the contenders as follows:
+
+* Fleur Delacour - Beauxbatons
+* Viktor Krum - Durmstrang
+* Cedric Diggory - Hogwarts
+
+However, Harry Potter's name is also picked, which sparks controversy since he is underage.
 
 The first task requires Harry to retrieve a golden egg while a Hungarian Horntail is
 trying to take him down. The egg is suppose to have a hint to the next task. He finishes

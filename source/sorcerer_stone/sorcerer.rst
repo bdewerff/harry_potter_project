@@ -1,6 +1,8 @@
 Sorcerer's Stone
 ================
-     
+.. image:: stone.png
+    :width: 25%
+
 Brief Overview
 --------------
           
@@ -12,14 +14,14 @@ the Dursley family.
 When Harry turns 11, many letters were sent to their 
 residence, but the Dursleys wouldn't allow Harry to read them. 
 Eventually a large man, Hagrid, comes to help and introduces him to the 
-Wizardry World and the school Hogwarts. 
+*Wizardry World* and the school Hogwarts. 
 
 His first friends become Ron Weasley and Hermione Granger. 
 When arriving at Hogwarts, Harry is placed in the Gryffindor house. 
 
 Harry, Hermione, and Ron discover a three-headed dog, Fluffy, that 
-is guarding a trap door. They learn it is guarding the Sorcerer's 
-stone, which can be used for the Elixir of Life to grant who drinks it, 
+is guarding a trap door. They learn it is guarding the **Sorcerer's 
+Stone**, which can be used for the Elixir of Life to grant who drinks it, 
 immortality. Throughout the plot the three friends believe Snape is 
 trying to steal the **Sorcerer's Stone**, but after surpassing 
 Fluffy and traversing the school's security system, they find out 
