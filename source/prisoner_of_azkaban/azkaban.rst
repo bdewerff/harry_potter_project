@@ -6,7 +6,7 @@ Brief Overview
 
 The third adventure in the Harry Potter series has Harry, Ron, and Hermione dealing
 with Serius Black, a possible ally of Lord Voldemort. While staying with the Dursley
-family, he learns Sirius Black has escaped prison and after losing control of his
+family, he learns Sirius Black has escaped prison. After losing control of his
 emotions, Harry blows his Aunt Marge up like a balloon and leaves the Dursleys to
 Diagon Alley. 
 
@@ -35,7 +35,7 @@ a large black dog drags Ron underneath the Whomping Willow. After Crookshanks
 (Hermione's cat) stops the flailing tree, they enter a secret passage to the 
 Shrieking Shack. They find the black dog is Sirius Black. Before they could attack him, 
 Professor Lupin comes to calm them down. They explain how they were friends along 
-with James Potter and Peter Pettigrew were friends while at Hogwarts and how 
+with James Potter and Peter Pettigrew while at Hogwarts and how 
 Professor Lupin is a werewolf. They reveal that Peter Pettigrew is Voldemort's servant 
 and has been transformed as Ron's pet rat, Scabbers, for years. Lupin then turns into
 a werewolf and Black turns in the dog to protect Harry, Ron, and Hermione. 

@@ -41,7 +41,7 @@ The final task is in a hedge maze. Cedric and Harry agree to grab the Tournament
 at the same time, but it is a portkey to a graveyard. There, Peter Pettigrew kills Cedric 
 and revives Lord Voldemort. Harry and Voldemort have a duel, but Harry escapes with 
 Cedric's body. Mad-Eye Moody admits he helped Harry enter and win the tournament and 
-is revealed as Barty Crouch and is trying to kill Harry. He was the Voldemort's servant 
+is revealed as Barty Crouch and is trying to kill Harry. He was Voldemort's servant 
 and was the one that cast the Dark Mark. Many people don't believe that Voldemort is back. 
 In the end Harry wins the Triwizard Tournament and gives his winnings to Fred and George.
 The final results for the tournament were as follows:
